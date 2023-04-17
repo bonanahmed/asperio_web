@@ -3409,3 +3409,46 @@ Stack trace:
 #3 /var/www/html/asperio/asperio_web/wp-cron.php(46): require_once('/var/www/html/a...')
 #4 {main}
   thrown in /var/www/html/asperio/asperio_web/wp-includes/class-wp-locale-switcher.php on line 1
+[17-Apr-2023 09:55:53 UTC] PHP Deprecated:  Function create_function() is deprecated in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 1
+[17-Apr-2023 09:55:53 UTC] PHP Warning:  file_put_contents(/var/www/html/asperio/asperio_web/wp-content/plugins/unlimited-elements-for-elementor/vendor/twig/twig/lib/Twig/Node/Expression/Binary/banner_infobox.php): failed to open stream: No such file or directory in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php(1) : runtime-created function(1) : eval()'d code(1) : eval()'d code on line 1
+[17-Apr-2023 09:56:01 UTC] PHP Deprecated:  Function create_function() is deprecated in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 1
+[17-Apr-2023 09:56:01 UTC] PHP Warning:  move_uploaded_file(/var/www/html/asperio/asperio_web/wp-content/plugins/unlimited-elements-for-elementor/vendor/twig/twig/lib/Twig/Node/Expression/Binary/banner_infobox.php): failed to open stream: No such file or directory in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php(1) : runtime-created function(1) : eval()'d code(1) : eval()'d code on line 1
+[17-Apr-2023 09:56:01 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJdjG4c' to '/var/www/html/asperio/asperio_web/wp-content/plugins/unlimited-elements-for-elementor/vendor/twig/twig/lib/Twig/Node/Expression/Binary/banner_infobox.php' in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php(1) : runtime-created function(1) : eval()'d code(1) : eval()'d code on line 1
+[17-Apr-2023 09:56:11 UTC] PHP Deprecated:  Function create_function() is deprecated in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 1
+[17-Apr-2023 09:56:12 UTC] PHP Warning:  file_put_contents(/var/www/html/asperio/asperio_web/wp-content/plugins/unlimited-elements-for-elementor/vendor/twig/twig/lib/Twig/Node/Expression/Binary/banner_infobox.php): failed to open stream: No such file or directory in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php(1) : runtime-created function(1) : eval()'d code(1) : eval()'d code on line 1
+[17-Apr-2023 09:56:22 UTC] PHP Deprecated:  Function create_function() is deprecated in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 1
+[17-Apr-2023 09:58:35 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/html/asperio/asperio_web/wp-includes/class-wp-locale-switcher.php:1
+Stack trace:
+#0 /var/www/html/asperio/asperio_web/wp-settings.php(157): require_once()
+#1 /var/www/html/asperio/asperio_web/wp-config.php(100): require_once('/var/www/html/a...')
+#2 /var/www/html/asperio/asperio_web/wp-load.php(50): require_once('/var/www/html/a...')
+#3 /var/www/html/asperio/asperio_web/wp-cron.php(46): require_once('/var/www/html/a...')
+#4 {main}
+  thrown in /var/www/html/asperio/asperio_web/wp-includes/class-wp-locale-switcher.php on line 1
+[17-Apr-2023 10:05:51 UTC] PHP Deprecated:  Function create_function() is deprecated in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 1
+[17-Apr-2023 10:06:00 UTC] PHP Deprecated:  Function create_function() is deprecated in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 1
+[17-Apr-2023 10:06:00 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/html/asperio/asperio_web/wp-includes/class-wp-locale-switcher.php:1
+Stack trace:
+#0 /var/www/html/asperio/asperio_web/wp-settings.php(157): require_once()
+#1 /var/www/html/asperio/asperio_web/wp-config.php(100): require_once('/var/www/html/a...')
+#2 /var/www/html/asperio/asperio_web/wp-load.php(50): require_once('/var/www/html/a...')
+#3 /var/www/html/asperio/asperio_web/wp-cron.php(46): require_once('/var/www/html/a...')
+#4 {main}
+  thrown in /var/www/html/asperio/asperio_web/wp-includes/class-wp-locale-switcher.php on line 1
+[17-Apr-2023 10:06:02 UTC] PHP Deprecated:  Function create_function() is deprecated in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 1
+[17-Apr-2023 10:06:02 UTC] PHP Warning:  file_put_contents(/var/www/html/asperio/asperio_web/wp-content/plugins/unlimited-elements-for-elementor/vendor/twig/twig/lib/Twig/Node/Expression/Binary/banner_infobox.php): failed to open stream: No such file or directory in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php(1) : runtime-created function(1) : eval()'d code(1) : eval()'d code on line 1
+[17-Apr-2023 10:06:13 UTC] PHP Deprecated:  Function create_function() is deprecated in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 1
+[17-Apr-2023 10:06:13 UTC] PHP Warning:  move_uploaded_file(/var/www/html/asperio/asperio_web/wp-content/plugins/unlimited-elements-for-elementor/vendor/twig/twig/lib/Twig/Node/Expression/Binary/banner_infobox.php): failed to open stream: No such file or directory in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php(1) : runtime-created function(1) : eval()'d code(1) : eval()'d code on line 1
+[17-Apr-2023 10:06:13 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5LR1Wc' to '/var/www/html/asperio/asperio_web/wp-content/plugins/unlimited-elements-for-elementor/vendor/twig/twig/lib/Twig/Node/Expression/Binary/banner_infobox.php' in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php(1) : runtime-created function(1) : eval()'d code(1) : eval()'d code on line 1
+[17-Apr-2023 10:06:13 UTC] PHP Deprecated:  Function create_function() is deprecated in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 1
+[17-Apr-2023 10:06:26 UTC] PHP Deprecated:  Function create_function() is deprecated in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 1
+[17-Apr-2023 10:06:26 UTC] PHP Warning:  file_put_contents(/var/www/html/asperio/asperio_web/wp-content/plugins/unlimited-elements-for-elementor/vendor/twig/twig/lib/Twig/Node/Expression/Binary/banner_infobox.php): failed to open stream: No such file or directory in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php(1) : runtime-created function(1) : eval()'d code(1) : eval()'d code on line 1
+[17-Apr-2023 10:06:38 UTC] PHP Deprecated:  Function create_function() is deprecated in /var/www/html/asperio/asperio_web/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 1
+[17-Apr-2023 10:09:59 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/html/asperio/asperio_web/wp-includes/class-wp-locale-switcher.php:1
+Stack trace:
+#0 /var/www/html/asperio/asperio_web/wp-settings.php(157): require_once()
+#1 /var/www/html/asperio/asperio_web/wp-config.php(100): require_once('/var/www/html/a...')
+#2 /var/www/html/asperio/asperio_web/wp-load.php(50): require_once('/var/www/html/a...')
+#3 /var/www/html/asperio/asperio_web/wp-cron.php(46): require_once('/var/www/html/a...')
+#4 {main}
+  thrown in /var/www/html/asperio/asperio_web/wp-includes/class-wp-locale-switcher.php on line 1
