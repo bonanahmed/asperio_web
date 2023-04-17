@@ -1,0 +1,35 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+.sec-img-gray img,
+.sec-img-gray .e-gallery-image {
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+}
+.sec-img-gray img:hover,
+.sec-img-gray .e-gallery-image:hover {
+	-webkit-filter: grayscale(0%);
+	filter: grayscale(0%);
+}
+.sec-prod-cont h2 {
+	margin-top: 25px !important;
+}
+.sec-product .elementor-post__thumbnail__link {
+  margin-bottom: -10px !important;
+}
+.sec-product .elementor-post__text {
+	margin-top: 10px !important;
+	background: #F92524 !important;
+	padding-top: 10px !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->
